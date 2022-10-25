@@ -1,0 +1,8 @@
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\beden_kitle_indeksi\beden_kitle_indeksi\bin\Debug\beden_kitle_indeksi.exe.config
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\beden_kitle_indeksi\beden_kitle_indeksi\bin\Debug\beden_kitle_indeksi.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\beden_kitle_indeksi\beden_kitle_indeksi\bin\Debug\beden_kitle_indeksi.pdb
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\beden_kitle_indeksi\beden_kitle_indeksi\obj\Debug\beden_kitle_indeksi.csproj.AssemblyReference.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\beden_kitle_indeksi\beden_kitle_indeksi\obj\Debug\beden_kitle_indeksi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\beden_kitle_indeksi\beden_kitle_indeksi\obj\Debug\beden_kitle_indeksi.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\beden_kitle_indeksi\beden_kitle_indeksi\obj\Debug\beden_kitle_indeksi.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\beden_kitle_indeksi\beden_kitle_indeksi\obj\Debug\beden_kitle_indeksi.pdb

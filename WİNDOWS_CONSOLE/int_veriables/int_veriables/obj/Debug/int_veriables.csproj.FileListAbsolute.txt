@@ -1,0 +1,8 @@
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\int_veriables\int_veriables\bin\Debug\int_veriables.exe.config
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\int_veriables\int_veriables\bin\Debug\int_veriables.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\int_veriables\int_veriables\bin\Debug\int_veriables.pdb
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\int_veriables\int_veriables\obj\Debug\int_veriables.csproj.AssemblyReference.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\int_veriables\int_veriables\obj\Debug\int_veriables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\int_veriables\int_veriables\obj\Debug\int_veriables.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\int_veriables\int_veriables\obj\Debug\int_veriables.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\int_veriables\int_veriables\obj\Debug\int_veriables.pdb

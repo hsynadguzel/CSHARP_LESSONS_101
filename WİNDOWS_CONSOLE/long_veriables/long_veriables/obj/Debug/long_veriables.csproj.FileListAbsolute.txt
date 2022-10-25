@@ -1,0 +1,8 @@
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\long_veriables\long_veriables\bin\Debug\long_veriables.exe.config
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\long_veriables\long_veriables\bin\Debug\long_veriables.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\long_veriables\long_veriables\bin\Debug\long_veriables.pdb
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\long_veriables\long_veriables\obj\Debug\long_veriables.csproj.AssemblyReference.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\long_veriables\long_veriables\obj\Debug\long_veriables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\long_veriables\long_veriables\obj\Debug\long_veriables.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\long_veriables\long_veriables\obj\Debug\long_veriables.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\long_veriables\long_veriables\obj\Debug\long_veriables.pdb

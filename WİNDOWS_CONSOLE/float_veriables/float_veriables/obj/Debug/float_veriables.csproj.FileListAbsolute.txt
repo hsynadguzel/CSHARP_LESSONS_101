@@ -1,0 +1,8 @@
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\float_veriables\float_veriables\obj\Debug\float_veriables.csproj.AssemblyReference.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\float_veriables\float_veriables\obj\Debug\float_veriables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\float_veriables\float_veriables\obj\Debug\float_veriables.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\float_veriables\float_veriables\bin\Debug\float_veriables.exe.config
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\float_veriables\float_veriables\bin\Debug\float_veriables.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\float_veriables\float_veriables\bin\Debug\float_veriables.pdb
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\float_veriables\float_veriables\obj\Debug\float_veriables.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\float_veriables\float_veriables\obj\Debug\float_veriables.pdb

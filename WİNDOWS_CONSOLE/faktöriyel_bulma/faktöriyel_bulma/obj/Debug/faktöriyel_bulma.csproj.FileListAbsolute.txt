@@ -1,0 +1,8 @@
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\faktöriyel_bulma\faktöriyel_bulma\bin\Debug\faktöriyel_bulma.exe.config
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\faktöriyel_bulma\faktöriyel_bulma\bin\Debug\faktöriyel_bulma.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\faktöriyel_bulma\faktöriyel_bulma\bin\Debug\faktöriyel_bulma.pdb
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\faktöriyel_bulma\faktöriyel_bulma\obj\Debug\faktöriyel_bulma.csproj.AssemblyReference.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\faktöriyel_bulma\faktöriyel_bulma\obj\Debug\faktöriyel_bulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\faktöriyel_bulma\faktöriyel_bulma\obj\Debug\faktöriyel_bulma.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\faktöriyel_bulma\faktöriyel_bulma\obj\Debug\faktöriyel_bulma.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\faktöriyel_bulma\faktöriyel_bulma\obj\Debug\faktöriyel_bulma.pdb

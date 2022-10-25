@@ -1,0 +1,8 @@
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_exp_4\for_loop_exp_4\bin\Debug\for_loop_exp_4.exe.config
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_exp_4\for_loop_exp_4\bin\Debug\for_loop_exp_4.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_exp_4\for_loop_exp_4\bin\Debug\for_loop_exp_4.pdb
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_exp_4\for_loop_exp_4\obj\Debug\for_loop_exp_4.csproj.AssemblyReference.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_exp_4\for_loop_exp_4\obj\Debug\for_loop_exp_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_exp_4\for_loop_exp_4\obj\Debug\for_loop_exp_4.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_exp_4\for_loop_exp_4\obj\Debug\for_loop_exp_4.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_exp_4\for_loop_exp_4\obj\Debug\for_loop_exp_4.pdb

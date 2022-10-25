@@ -1,0 +1,8 @@
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\while_loop_exp\while_loop_exp\obj\Debug\while_loop_exp.csproj.AssemblyReference.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\while_loop_exp\while_loop_exp\obj\Debug\while_loop_exp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\while_loop_exp\while_loop_exp\obj\Debug\while_loop_exp.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\while_loop_exp\while_loop_exp\bin\Debug\while_loop_exp.exe.config
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\while_loop_exp\while_loop_exp\bin\Debug\while_loop_exp.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\while_loop_exp\while_loop_exp\bin\Debug\while_loop_exp.pdb
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\while_loop_exp\while_loop_exp\obj\Debug\while_loop_exp.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\while_loop_exp\while_loop_exp\obj\Debug\while_loop_exp.pdb

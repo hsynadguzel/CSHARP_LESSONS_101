@@ -1,0 +1,8 @@
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_döngü\for_loop_döngü\bin\Debug\for_loop_döngü.exe.config
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_döngü\for_loop_döngü\bin\Debug\for_loop_döngü.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_döngü\for_loop_döngü\bin\Debug\for_loop_döngü.pdb
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_döngü\for_loop_döngü\obj\Debug\for_loop_döngü.csproj.AssemblyReference.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_döngü\for_loop_döngü\obj\Debug\for_loop_döngü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_döngü\for_loop_döngü\obj\Debug\for_loop_döngü.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_döngü\for_loop_döngü\obj\Debug\for_loop_döngü.exe
+C:\Users\Huseyin\Desktop\2022 BAHAR BİLGİSAYAR MÜHENDİSLİĞİ SELÇUK ÜNİVERSİTESİ\PROGRAMLAMA DİLİ-2\CODE\WİNDOWS_CONSOLE\for_loop_döngü\for_loop_döngü\obj\Debug\for_loop_döngü.pdb
